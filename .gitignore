@@ -1,0 +1,7 @@
+.idea/
+.venv/
+.vscode/
+target/
+dbt_packages/
+logs/
+.user.yml
