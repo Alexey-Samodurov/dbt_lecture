@@ -14,5 +14,6 @@
    - `dbt init dbt_lecture`
 7. Check connection to the database
     - `dbt debug`
-
-8. 
+8. Copy `financial.csv` to dbt `seeds/financial.csv`
+9. Init the dbt seed 
+    - `dbt seed`
